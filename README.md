@@ -32,3 +32,19 @@ $php composer.phar install
 $php artisan key:generate
 ```
 
+## Tạo controller
+```
+php artisan make:controller HomeController
+```
+
+## Tạo model
+```
+php artisan make model SinhVienModel
+```
+
+## Kết nối database
+- Nhập thông tin ở file `.env`
+Sau đó chạy code:
+```
+$php artisan migrate
+```

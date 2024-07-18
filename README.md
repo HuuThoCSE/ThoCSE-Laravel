@@ -25,6 +25,13 @@ $php -v
 $php composer.phar install
 ```
 
+## 
+```
+Code Create Project Laravel: composer create-project laravel/laravel "tên thư  mục"
+Code ignore platform: composer install --ignore-platform-reqs
+Code up date ignore platform: composer update --ignore-platform-reqs
+```
+
 # Copy file .env.example thành .env
 
 ## Tạo token 

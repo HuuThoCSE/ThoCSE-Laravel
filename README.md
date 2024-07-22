@@ -33,6 +33,19 @@ Code up date ignore platform: composer update --ignore-platform-reqs
 php artisan serve
 ```
 
+## Vào file thư mục chứa php.init
+Chỉnh
+```
+;extension=fileinfo
+```
+
+thành
+```
+extension=php_fileinfo.dll
+
+```
+
+
 # Copy file .env.example thành .env
 
 ## Tạo token 

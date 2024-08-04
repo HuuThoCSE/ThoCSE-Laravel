@@ -26,7 +26,7 @@ https://getcomposer.org/download/
 Bước 1
 ```
 composer config -g -- disable-tls true
-``
+```
 
 Bước 2
 ```

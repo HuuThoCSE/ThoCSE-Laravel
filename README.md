@@ -21,6 +21,15 @@ https://getcomposer.org/download/
 
 ## Tải laragon
 
+# Lỗi
+## Lỗi ssl
+```
+; https://php.net/extension-dir
+;extension_dir = "./"
+; On windows:
+;extension_dir = "ext"
+```
+
 ## Lỗi: could not find driver
 Vào php.init
 ```

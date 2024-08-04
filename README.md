@@ -29,6 +29,13 @@ https://getcomposer.org/download/
 ; On windows:
 ;extension_dir = "ext"
 ```
+to
+```
+; https://php.net/extension-dir
+;extension_dir = "./"
+; On windows:
+extension_dir = "ext"
+```
 
 ## Lỗi: could not find driver
 Vào php.init

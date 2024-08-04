@@ -1,4 +1,4 @@
-![icon@2x](https://github.com/user-attachments/assets/62d1b6ea-5555-4eee-8346-47dfcf7e29d9)# ThoCSE-Laravel
+# ThoCSE-Laravel
 
 ## Tải laravel
 https://github.com/laravel/laravel

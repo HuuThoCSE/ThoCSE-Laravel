@@ -23,6 +23,12 @@ https://getcomposer.org/download/
 
 # Lỗi
 ## Lỗi ssl
+Bước 1
+```
+composer config -g -- disable-tls true
+``
+
+Bước 2
 ```
 ; https://php.net/extension-dir
 ;extension_dir = "./"
